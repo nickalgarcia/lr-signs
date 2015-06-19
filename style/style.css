@@ -948,7 +948,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul
 	float: left;
 	font-size: 48px;
 	margin-right: 30px;
-	color: #F4BC16;
+	color: #8cc63e;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	border-radius: 50%;
@@ -1503,7 +1503,7 @@ span.odometer.number:after
 	float: left;
 	font-size: 48px;
 	margin-right: 30px;
-	color: #F4BC16;
+	color: #8cc63e;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	border-radius: 50%;
@@ -1894,7 +1894,7 @@ li.template-bullet:before
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 48px;
-	color: #F4BC16;
+	color: #8cc63e;
 	padding: 20px 20px 12px;
 }
 .tabs-navigation li a
@@ -1923,7 +1923,7 @@ li.template-bullet:before
 .tabs-navigation.small.gray li a.selected,
 .tabs-navigation.small.gray li.ui-tabs-active a
 {
-	background: #F4BC16;
+	background: #8cc63e;
 	color: #FFF;
 }
 .tabs-navigation li a:hover:before,
