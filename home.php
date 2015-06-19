@@ -142,7 +142,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="row full-width page-margin-top-section">
+		<!--Recent Projects-->
+		<!--<div class="row full-width page-margin-top-section">
 			<div class="row">
 				<h2 class="box-header">RECENT PROJECTS</h2>
 				<p class="description align-center">Here are a few of many projects we have completed for our customers. We provide a professional service<br>which includes consultation, free estimate, design, supply of materials and installation.</p>
@@ -205,7 +206,7 @@
 		<div class="row gray full-width padding-top-54 padding-bottom-61 align-center">
 			<h3><span class="button-label">EXPLORE OUR PROJECTS</span> <a class="more" href="?page=projects" title="VIEW ALL PROJECTS">VIEW ALL PROJECTS</a></h3>
 		</div>
-		<!--<div class="row gray full-width padding-top-bottom-50">
+		<div class="row gray full-width padding-top-bottom-50">
 			<div class="row">
 				<div class="column column-1-2 align-right padding-top-7">
 					<h3>EXPLORE OUR PROJECTS</h3>
@@ -218,7 +219,7 @@
 		<div class="row page-margin-top-section">
 			<div class="row">
 				<h2 class="box-header">ABOUT US</h2>
-				<p class="description align-center">We provide a professional renovation and installation services with a real focus on customer satisfaction.<br>Our installations are carried out by fully trained staff to the highest professional standards.</p>
+				<p class="description align-center">L & R signs is a Christian company built on Christian principles. We started this company because we know that we can and will bring a higher level of quality to the sign industry and to our customers.<br>L & R signs want you to know that we really believe in a more personal level of service so you get the best service there is.</p>
 			</div>
 			<div class="row page-margin-top">
 				<div class="column column-1-2 align-center re-preload">
@@ -282,14 +283,14 @@
 			</div>
 		</div>
 		<div class="row page-margin-top-section padding-bottom-66">
-			<h2 class="box-header">WHY CHOOSE RENOVATE</h2>
-			<p class="description align-center">Founded by Kevin Smith back in 2000, Renovate has established itself as one of the greatest and prestigious<br>providers of construction focused interior renovation services and building.</p>
+			<h2 class="box-header">WHY CHOOSE L & R Signs</h2>
+			<p class="description align-center">We know you want the best of the best in all areas of your signage from start to finish.<br>We simply believe in the People, quality Product, and an efficient Process.</p>
 			<div class="row page-margin-top">
 				<div class="column column-1-3">
 					<ul class="features-list big">
 						<li class="sl-large-house-1">
 							<div class="ornament"></div>
-							<h4 class="box-header page-margin-top">OVER 15 YEARS EXPERIENCE</h4>
+							<h4 class="box-header page-margin-top">10 YEARS EXPERIENCE</h4>
 							<p>Morbi nulla tortor, dignissim est node cursus euismod est arcu. Nomad at vehicula novum justo magna.</p>
 						</li>
 					</ul>
@@ -298,7 +299,7 @@
 					<ul class="features-list big">
 						<li class="sl-large-eco">
 							<div class="ornament"></div>
-							<h4 class="box-header page-margin-top">BEST MATERIALS</h4>
+							<h4 class="box-header page-margin-top">Quality Product</h4>
 							<p>Morbi nulla tortor, dignissim est node cursus euismod est arcu. Nomad at vehicula novum justo magna.</p>
 						</li>
 					</ul>
@@ -307,7 +308,7 @@
 					<ul class="features-list big">
 						<li class="sl-large-garage">
 							<div class="ornament"></div>
-							<h4 class="box-header page-margin-top">PROFESSIONAL STANDARDS</h4>
+							<h4 class="box-header page-margin-top">Solid and Efficient Process</h4>
 							<p>Morbi nulla tortor, dignissim est node cursus euismod est arcu. Nomad at vehicula novum justo magna.</p>
 						</li>
 					</ul>
