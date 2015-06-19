@@ -113,27 +113,27 @@
 		<div class="row full-width gray page-padding-top-section">
 			<div class="row">
 				<h2 class="box-header">OUR SERVICES</h2>
-				<p class="description align-center">With over 15 years experience and real focus on customer satisfaction, you can rely on us for your next renovation,<br>driveway sett or home repair. We provide a professional service for private and commercial customers.</p>
+				<p class="description align-center">L & R signs has 10 years of custom sign fabrication in all areas of signage. With our services we really put forth the best in all quailty of fabrication. When it comes to our services we offer all areas of custom signage and local installtaion.</p>
 				<ul class="services-list clearfix page-margin-top">
 					<li>
 						<a href="?page=service_interior_renovation" title="Interior Renovation">
 							<img src="images/samples/390x260/image_01.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_interior_renovation" title="Interior Renovation">INTERIOR RENOVATION</a></h4>
+						<h4 class="box-header"><a href="?page=service_interior_renovation" title="Interior Renovation">Channel Letters</a></h4>
 						<p>We can help you bring new life to existing rooms and develop unused spaces.</p>
 					</li>
 					<li>
 						<a href="?page=service_design_build" title="Design and Build">
 							<img src="images/samples/390x260/image_02.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_design_build" title="Design and Build">DESIGN AND BUILD</a></h4>
+						<h4 class="box-header"><a href="?page=service_design_build" title="Design and Build">Sign Cabinets</a></h4>
 						<p>From initial design and project specification to archieving a high end finish.</p>
 					</li>
 					<li>
 						<a href="?page=service_tiling_painting" title="Tiling and Painting">
 							<img src="images/samples/390x260/image_03.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">TILING AND PAINTING</a></h4>
+						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">Designing</a></h4>
 						<p>We offer quality tiling and painting solutions for interior and exterior.</p>
 					</li>
 				</ul>
