@@ -2547,7 +2547,7 @@ li.template-bullet:before
 	font-family: 'Raleway';
 	font-size: 12px;
 	font-weight: 700;
-	background: #F4BC16;
+	background: #8cc63e;
 	padding: 16px 23px 15px;
 	text-align: center;
 	cursor: pointer;
@@ -2559,7 +2559,7 @@ li.template-bullet:before
 	transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
-	border: 2px solid #F4BC16;
+	border: 2px solid #8cc63e;
 }
 .more:hover
 {
