@@ -315,7 +315,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row full-width padding-top-70 padding-bottom-66 parallax parallax-1">	
+		<!--<div class="row full-width padding-top-70 padding-bottom-66 parallax parallax-1">	
 			<div class="row testimonials-container">
 				<a href="#" class="slider-control left template-arrow-left-1"></a>
 				<ul class="testimonials-list">
@@ -349,8 +349,8 @@
 				</ul>
 				<a href="#" class="slider-control right template-arrow-left-1"></a>
 			</div>
-		</div>
-		<div class="row gray full-width page-padding-top-section padding-bottom-66">
+		</div>-->
+		<!--<div class="row gray full-width page-padding-top-section padding-bottom-66">
 			<div class="row">
 				<h2 class="box-header">WE WORK WITH</h2>
 				<div class="our-clients-list-container page-margin-top">
@@ -395,6 +395,6 @@
 					<div class="our-clients-pagination"></div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 	</div>
 </div>
