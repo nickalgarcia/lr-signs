@@ -84,12 +84,16 @@
 </div>-->
 <!--/-->
 
+<div class="revolution-slider-container">
+	<div class="revolution-slider">
 <img src="images/slider/project_01.jpg" alt="First Project" data-bgfit="cover">
 <div class="slider-content-box">
 						<h2><a href="?page=service_interior_renovation" title="INTERIOR RENOVATION">HOME IMPROVEMENTS AND REMODELING</a></h2>
 						<p>With over 15 years experience and real focus on customer satisfaction, you can rely on us for your next renovation, remodeling or driveway sett.</p>
 						<a class="more simple" href="?page=contact" title="Contact Us">CONTACT US</a>
 					</div>
+				</div>
+			</div>
 
 <div class="theme-page">
 	<div class="clearfix">
