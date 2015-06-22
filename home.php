@@ -87,7 +87,18 @@
 <div class="revolution-slider-container">
 	<div class="revolution-slider">
 <img src="images/slider/project_01.jpg" alt="First Project" data-bgfit="cover">
-<div class="tp-caption customin customout">
+<div class="tp-caption customin customout"
+					data-x="0"
+					data-y="140"
+					
+					data-customin="x:40;y:0;"
+					data-start="500"
+					data-speed="1200"
+					data-easing="easeInOutExpo"
+
+					data-customout="x:0;y:0;"
+					data-endspeed="500"
+					data-endeasing="easeInOutExpo">
 <div class="slider-content-box">
 						<h2><a href="?page=service_interior_renovation" title="INTERIOR RENOVATION">HOME IMPROVEMENTS AND REMODELING</a></h2>
 						<p>With over 15 years experience and real focus on customer satisfaction, you can rely on us for your next renovation, remodeling or driveway sett.</p>
