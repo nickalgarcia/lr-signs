@@ -86,7 +86,7 @@
 
 <div class="row margin-top-70">
 			<div class="column column-1-2 align-center re-preload">
-				<img src="images/slider/project_01.jpg" alt="" class="radius">
+				<img src="images/slider/project_01.jpg" alt="" >
 			</div>
 			<div class="column column-1-2">
 				<h2 class="box-header align-left">L & R Signs</h2>
