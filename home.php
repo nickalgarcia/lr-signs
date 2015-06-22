@@ -1,13 +1,12 @@
 <!-- Slider Revolution -->
-<div class="revolution-slider-container">
+<!--<div class="revolution-slider-container">
 	<div class="revolution-slider">
-		<ul style="display: none;">
-			<!-- SLIDE 1 -->
-			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-				<!-- MAIN IMAGE -->
+		<ul style="display: none;">-->
+			
+			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+				
 				<img src="images/slider/project_01.jpg" alt="First Project" data-bgfit="cover">
-				<!-- LAYERS -->
-				<!-- LAYER 01 -->
+
 				<div class="tp-caption customin customout"
 					data-x="0"
 					data-y="140"
@@ -27,7 +26,7 @@
 						<a class="more simple" href="?page=contact" title="Contact Us">CONTACT US</a>
 					</div>
 				</div>
-			</li>
+			</li>-->
 
 			<!-- SLIDE 2 -->
 			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
@@ -80,10 +79,17 @@
 					</div>
 				</div>
 			</li>-->
-		</ul>
+		<!--</ul>
 	</div>
-</div>
+</div>-->
 <!--/-->
+
+<img src="images/slider/project_01.jpg" alt="First Project" data-bgfit="cover">
+<div class="slider-content-box">
+						<h2><a href="?page=service_interior_renovation" title="INTERIOR RENOVATION">HOME IMPROVEMENTS AND REMODELING</a></h2>
+						<p>With over 15 years experience and real focus on customer satisfaction, you can rely on us for your next renovation, remodeling or driveway sett.</p>
+						<a class="more simple" href="?page=contact" title="Contact Us">CONTACT US</a>
+					</div>
 
 <div class="theme-page">
 	<div class="clearfix">
