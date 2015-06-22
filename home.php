@@ -5,7 +5,7 @@
 			<!-- SLIDE 1 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/image_01.jpg" alt="slidebg1" data-bgfit="cover">
+				<img src="images/slider/project_01.jpg" alt="First Project" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -24,17 +24,16 @@
 					<div class="slider-content-box">
 						<h2><a href="?page=service_interior_renovation" title="INTERIOR RENOVATION">HOME IMPROVEMENTS AND REMODELING</a></h2>
 						<p>With over 15 years experience and real focus on customer satisfaction, you can rely on us for your next renovation, remodeling or driveway sett.</p>
-						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
+						<a class="more simple" href="?page=contact" title="Contact Us">CONTACT US</a>
 					</div>
 				</div>
 			</li>
 
 			<!-- SLIDE 2 -->
-			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-				<!-- MAIN IMAGE -->
+			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+				
 				<img src="images/slider/image_02.jpg" alt="slidebg2" data-bgfit="cover">
-				<!-- LAYERS -->
-				<!-- LAYER 01 -->
+				
 				<div class="tp-caption customin customout"
 					data-x="0"
 					data-y="140"
@@ -54,14 +53,13 @@
 						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
 					</div>
 				</div>
-			</li>
+			</li>-->
 			
 			<!-- SLIDE 3 -->
-			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-				<!-- MAIN IMAGE -->
+			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+				
 				<img src="images/slider/image_03.jpg" alt="slidebg3" data-bgfit="cover">
-				<!-- LAYERS -->
-				<!-- LAYER 01 -->
+				
 				<div class="tp-caption customin customout"
 					data-x="0"
 					data-y="140"
@@ -81,7 +79,7 @@
 						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
 					</div>
 				</div>
-			</li>
+			</li>-->
 		</ul>
 	</div>
 </div>
