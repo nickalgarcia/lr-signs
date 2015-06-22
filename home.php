@@ -1,5 +1,5 @@
 <!-- Slider Revolution -->
-<div class="revolution-slider-container">
+<!--<div class="revolution-slider-container">
 	<div class="revolution-slider">
 		<ul style="display: none;">
 			
@@ -26,7 +26,7 @@
 						<a class="more simple" href="?page=contact" title="Contact Us">CONTACT US</a>
 					</div>
 				</div>
-			</li>
+			</li>-->
 
 			<!-- SLIDE 2 -->
 			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
@@ -79,11 +79,30 @@
 					</div>
 				</div>
 			</li>-->
-		</ul>
+		<!--</ul>
 	</div>
-</div>
+</div>-->
 <!--/-->
 
+<div class="row margin-top-70">
+			<div class="column column-1-2 align-center re-preload">
+				<img src="images/project_01.jpg" alt="" class="radius">
+			</div>
+			<div class="column column-1-2">
+				<h2 class="box-header align-left">L & R Signs</h2>
+				<p class="description t1">Founded by Kevin Smith back in 2000, Renovate has established itself as one of the greatest and prestigious providers of construction focused interior renovation services and building. We provide a professional renovation and installation services with a real focus on customer satisfaction. Our construction Services is a multi-task company specializing in the following core areas:</p>
+				<ul class="list margin-top-20">
+					<li class="template-bullet">We combine Quality Workmanship, Superior Knowledge and Low Prices</li>
+					<li class="template-bullet">We Can Ensure a Job is Done on Time and on Budget</li>
+					<li class="template-bullet">Proven Results for Setting Exceptional Standards in <a href="?page=cost_calculator">Cost Control</a></li>
+					<li class="template-bullet">Proffesional Service for Private and <a href="#">Commercial Customers</a></li>
+					<li class="template-bullet">15 Years Experience and a Real Focus on Customer Satisfaction</li>
+				</ul>
+				<div class="page-margin-top">
+					<a class="more" href="?page=services" title="OUR SERVICES">OUR SERVICES</a>
+				</div>
+			</div>
+		</div>
 
 
 <div class="theme-page">
