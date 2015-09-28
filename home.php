@@ -5,7 +5,7 @@
 			<!-- SLIDE 1 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/image_01.jpg" alt="slidebg1" data-bgfit="cover">
+				<img src="images/slider/channel-1.jpg" alt="slidebg1" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -32,7 +32,7 @@
 			<!-- SLIDE 2 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/image_02.jpg" alt="slidebg2" data-bgfit="cover">
+				<img src="images/slider/eco-estate.jpg" alt="slidebg2" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -59,7 +59,7 @@
 			<!-- SLIDE 3 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/image_03.jpg" alt="slidebg3" data-bgfit="cover">
+				<img src="images/slider/bradshaw.jpg" alt="slidebg3" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
