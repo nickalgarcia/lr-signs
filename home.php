@@ -118,29 +118,29 @@
 				<ul class="services-list clearfix page-margin-top">
 					<li>
 						<a href="?page=service_interior_renovation" title="Interior Renovation">
-							<img src="images/samples/390x260/image_01.jpg" alt="">
+							<img src="images/samples/390x260/channel.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_interior_renovation" title="Interior Renovation">Channel Letters</a></h4>
-						<p>We can help you bring new life to existing rooms and develop unused spaces.</p>
+						<!--<p>We can help you bring new life to existing rooms and develop unused spaces.</p>-->
 					</li>
 					<li>
 						<a href="?page=service_design_build" title="Design and Build">
-							<img src="images/samples/390x260/image_02.jpg" alt="">
+							<img src="images/samples/390x260/cabinet.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_design_build" title="Design and Build">Sign Cabinets</a></h4>
-						<p>From initial design and project specification to archieving a high end finish.</p>
+						<!--<p>From initial design and project specification to archieving a high end finish.</p>-->
 					</li>
 					<li>
 						<a href="?page=service_tiling_painting" title="Tiling and Painting">
-							<img src="images/samples/390x260/image_03.jpg" alt="">
+							<img src="images/samples/390x260/designing.jpg" alt="">
 						</a>
 						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">Designing</a></h4>
-						<p>We offer quality tiling and painting solutions for interior and exterior.</p>
+						<!--<p>We offer quality tiling and painting solutions for interior and exterior.</p>-->
 					</li>
 				</ul>
-				<div class="align-center margin-top-67 padding-bottom-87">
+				<!--<div class="align-center margin-top-67 padding-bottom-87">
 					<a class="more" href="?page=services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
-				</div>
+				</div>-->
 			</div>
 		</div>
 		<!--Recent Projects-->
@@ -224,7 +224,7 @@
 			</div>
 			<div class="row page-margin-top">
 				<div class="column column-1-2 align-center re-preload">
-					<img src="images/samples/480x480/image_10.jpg" alt="" class="radius">
+					<img src="images/samples/480x480/channel-letters.jpg" alt="" class="radius">
 				</div>
 				<div class="column column-1-2">
 					<ul class="features-list">
@@ -244,7 +244,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row gray full-width page-margin-top-section page-padding-top-section padding-bottom-66">
+		<!--<div class="row gray full-width page-margin-top-section page-padding-top-section padding-bottom-66">
 			<div class="row">
 				<div class="tabs no-scroll clearfix">
 					<ul class="tabs-navigation clearfix">
@@ -282,7 +282,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 		<div class="row page-margin-top-section padding-bottom-66">
 			<h2 class="box-header">WHY CHOOSE L & R Signs</h2>
 			<p class="description align-center">We know you want the best of the best in all areas of your signage from start to finish.<br>We simply believe in the People, quality Product, and an efficient Process.</p>
