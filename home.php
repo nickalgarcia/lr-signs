@@ -138,9 +138,9 @@
 						<!--<p>We offer quality tiling and painting solutions for interior and exterior.</p>-->
 					</li>
 				</ul>
-				<!--<div class="align-center margin-top-67 padding-bottom-87">
+				<div class="align-center margin-top-67 padding-bottom-87">
 					<a class="more" href="?page=services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
-				</div>-->
+				</div>
 			</div>
 		</div>
 		<!--Recent Projects-->
