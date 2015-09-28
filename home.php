@@ -1,12 +1,13 @@
 <!-- Slider Revolution -->
-<!--<div class="revolution-slider-container">
+<div class="revolution-slider-container">
 	<div class="revolution-slider">
 		<ul style="display: none;">
-			
+			<!-- SLIDE 1 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-				
-				<img src="images/slider/project_01.jpg" alt="First Project" data-bgfit="cover">
-
+				<!-- MAIN IMAGE -->
+				<img src="images/slider/image_01.jpg" alt="slidebg1" data-bgfit="cover">
+				<!-- LAYERS -->
+				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
 					data-x="0"
 					data-y="140"
@@ -23,16 +24,17 @@
 					<div class="slider-content-box">
 						<h2><a href="?page=service_interior_renovation" title="INTERIOR RENOVATION">HOME IMPROVEMENTS AND REMODELING</a></h2>
 						<p>With over 15 years experience and real focus on customer satisfaction, you can rely on us for your next renovation, remodeling or driveway sett.</p>
-						<a class="more simple" href="?page=contact" title="Contact Us">CONTACT US</a>
+						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
 					</div>
 				</div>
-			</li>-->
+			</li>
 
 			<!-- SLIDE 2 -->
-			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-				
+			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+				<!-- MAIN IMAGE -->
 				<img src="images/slider/image_02.jpg" alt="slidebg2" data-bgfit="cover">
-				
+				<!-- LAYERS -->
+				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
 					data-x="0"
 					data-y="140"
@@ -52,13 +54,14 @@
 						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
 					</div>
 				</div>
-			</li>-->
+			</li>
 			
 			<!-- SLIDE 3 -->
-			<!--<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
-				
+			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+				<!-- MAIN IMAGE -->
 				<img src="images/slider/image_03.jpg" alt="slidebg3" data-bgfit="cover">
-				
+				<!-- LAYERS -->
+				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
 					data-x="0"
 					data-y="140"
@@ -78,31 +81,11 @@
 						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
 					</div>
 				</div>
-			</li>-->
-		<!--</ul>
+			</li>
+		</ul>
 	</div>
-</div>-->
+</div>
 <!--/-->
-
-<div class="row margin-top-70">
-			<div class="column column-1-2 align-center re-preload">
-				<a href="?page=contact"><img src="images/slider/project_01.jpg" alt="" ></a>
-			</div>
-			<div class="column column-1-2">
-				<h2 class="box-header align-left">L & R Signs</h2>
-				<p class="description t1">Founded by Kevin Smith back in 2000, Renovate has established itself as one of the greatest and prestigious providers of construction focused interior renovation services and building. We provide a professional renovation and installation services with a real focus on customer satisfaction. Our construction Services is a multi-task company specializing in the following core areas:</p>
-				<ul class="list margin-top-20">
-					<li class="template-bullet">We combine Quality Workmanship, Superior Knowledge and Low Prices</li>
-					<li class="template-bullet">We Can Ensure a Job is Done on Time and on Budget</li>
-					<li class="template-bullet">Proven Results for Setting Exceptional Standards in <a href="?page=cost_calculator">Cost Control</a></li>
-					<li class="template-bullet">Proffesional Service for Private and <a href="#">Commercial Customers</a></li>
-					<li class="template-bullet">15 Years Experience and a Real Focus on Customer Satisfaction</li>
-				</ul>
-				<div class="page-margin-top">
-					<a class="more" href="?page=services" title="OUR SERVICES">OUR SERVICES</a>
-				</div>
-			</div>
-		</div>
 
 
 <div class="theme-page">
