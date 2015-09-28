@@ -5,15 +5,14 @@
 						<ul class="contact-details-list">
 							<li class="sl-small-phone">
 								<p>Phone:<br>
-								+149 75 23 222 35</p>
+								(512) 412-2536</p>
 							</li>
 						</ul>
 					</div>
 					<div class="column column-1-3">
 						<ul class="contact-details-list">
 							<li class="sl-small-location">
-								<p>272 Linden Avenue<br>
-								Winter Park, FL 32789</p>
+								<p>1525 Brandi Lane<br>Round Rock, Texas</p>
 							</li>
 						</ul>
 					</div>
@@ -21,7 +20,7 @@
 						<ul class="contact-details-list">
 							<li class="sl-small-mail">
 								<p>E-mail:<br>
-								<a href="mailto:kevin.smith@connect.com">renovate@mail.com</a></p>
+								<a href="mailto:landrsigns@yahoo.com">landrsigns@yahoo.com</a></p>
 							</li>
 						</ul>
 					</div>
@@ -32,39 +31,27 @@
 				<div class="row row-4-4">
 					<div class="column column-1-4">
 						<h6 class="box-header">About Us</h6>
-						<p class="description t1">Founded by Kevin Smith back in 2000. Renovate has estabilished itself as one of the greatest and prestigious providers of construction focused interior renovation services and building.</p>
+						<p class="description t1">L & R signs is a Christian company built on Christian principles. We started this company because we know that we can and will bring a higher level of quality to the sign industry and to our customers.</p>
 						<ul class="social-icons yellow margin-top-26">
 							<li>
-								<a target="_blank" href="http://facebook.com/QuanticaLabs" class="social-facebook" title="facebook"></a>
-							</li>
-							<li>
-								<a target="_blank" href="https://twitter.com/QuanticaLabs" class="social-twitter" title="twitter"></a>
-							</li>
-							<li>
-								<a target="_blank" href="http://themeforest.net/user/QuanticaLabs/portfolio?ref=QuanticaLabs" class="social-linkedin" title="linkedin"></a>
-							</li>
-							<li>
-								<a href="https://pinterest.com/quanticalabs/" class="social-pinterest" title="pinterest"></a>
+								<a target="_blank" href="https://www.facebook.com/landrsigns" class="social-facebook" title="facebook"></a>
 							</li>
 						</ul>
 					</div>
 					<div class="column column-1-4">
 						<h6 class="box-header">Our Services</h6>
 						<ul class="list margin-top-20">
-							<li class="template-bullet">Interior Renovation</li>
-							<li class="template-bullet">Design and Build</li>
-							<li class="template-bullet">Tiling and Painting</li>
-							<li class="template-bullet">Paver Walkways</li>
-							<li class="template-bullet">Household Repairs</li>
-							<li class="template-bullet">Solar Systems</li>
+							<li class="template-bullet">Channel Letters</li>
+							<li class="template-bullet">Sign Cabinets</li>
+							<li class="template-bullet">Designing</li>
 						</ul>
 					</div>
-					<div class="column column-1-4">
+					<!--<div class="column column-1-4">
 						<h6 class="box-header">Categories</h6>
 						<ul class="taxonomies margin-top-30">
-							<li><a href="?page=category&amp;cat=build" title="BUILD">BUILD</a></li>
-							<li><a href="?page=category&amp;cat=design" title="DESIGN">DESIGN</a></li>
-							<li><a href="?page=category&amp;cat=flooring" title="FLOORING">FLOORING</a></li>
+							<li><a href="?page=category&amp;cat=build" title="BUILD">CHANNEL LETTERS</a></li>
+							<li><a href="?page=category&amp;cat=design" title="DESIGN">SIGN CABINETS</a></li>
+							<li><a href="?page=category&amp;cat=flooring" title="FLOORING">DESIGNING</a></li>
 							<li><a href="?page=category&amp;cat=painting" title="PAINTING">PAINTING</a></li>
 							<li><a href="?page=category&amp;cat=pavers" title="PAVERS">PAVERS</a></li>
 							<li><a href="?page=category&amp;cat=plumbing" title="PLUMBING">PLUMBING</a></li>
@@ -73,8 +60,8 @@
 							<li><a href="?page=category&amp;cat=solar%20systems" title="SOLAR SYSTEMS">SOLAR SYSTEMS</a></li>
 							<li><a href="?page=category&amp;cat=tiling" title="TILING">TILING</a></li>
 						</ul>
-					</div>
-					<div class="column column-1-4">
+					</div>-->
+					<!--<div class="column column-1-4">
 						<h6 class="box-header">Latest Posts</h6>
 						<ul class="blog small margin-top-30">
 							<li>
@@ -100,11 +87,11 @@
 								</div>
 							</li>
 						</ul>
-					</div>
+					</div>-->
 				</div>
 			</div>
 			<div class="row align-center padding-top-bottom-30">
-				<span class="copyright">© Copyright 2015 <a href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="Renovate Template" target="_blank">Renovate Template</a> by <a href="http://quanticalabs.com" title="QuanticaLabs" target="_blank">QuanticaLabs</a></span>
+				<span class="copyright">© Copyright 2015 <a href="http://landrsigns.com/" target="_blank">Renovate Template</a></span>
 			</div>
 		</div>
 		<a href="#top" class="scroll-top animated-element template-arrow-up" title="Scroll to top"></a>
