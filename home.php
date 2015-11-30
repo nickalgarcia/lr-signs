@@ -104,7 +104,7 @@
 					<li class="column column-3-4">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
-								<a class="more" href="?page=cost_calculator" title="REQUEST A QUOTE">REQUEST A QUOTE</a>
+								<a class="more" href="?page=contact" title="REQUEST A QUOTE">REQUEST A QUOTE</a>
 							</div>
 						</div>
 					</li>
@@ -117,23 +117,23 @@
 				<p class="description align-center">L & R signs has over 15 years of custom sign fabrication experience. With our services we put forth the best quality product and fabrication. When it comes to our services we offer all areas of custom signage, from front, reverse, or front and reverse lit channel letters, sign cabinets, monument signs, graphic designing, and even local installation.</p>
 				<ul class="services-list clearfix page-margin-top">
 					<li>
-						<a href="?page=service_interior_renovation" title="Interior Renovation">
+						
 							<img src="images/samples/390x260/channel.jpg" alt="">
-						</a>
+						
 						<h4 class="box-header"><a href="?page=service_interior_renovation" title="Interior Renovation">Channel Letters</a></h4>
 						<!--<p>We can help you bring new life to existing rooms and develop unused spaces.</p>-->
 					</li>
 					<li>
-						<a href="?page=service_design_build" title="Design and Build">
+						
 							<img src="images/samples/390x260/cabinet.jpg" alt="">
-						</a>
+						
 						<h4 class="box-header"><a href="?page=service_design_build" title="Design and Build">Sign Cabinets</a></h4>
 						<!--<p>From initial design and project specification to archieving a high end finish.</p>-->
 					</li>
 					<li>
-						<a href="?page=service_tiling_painting" title="Graphic Design">
+						
 							<img src="images/samples/390x260/graphic-design.jpg" alt="">
-						</a>
+						
 						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">Graphic Design</a></h4>
 						<!--<p>We offer quality tiling and painting solutions for interior and exterior.</p>-->
 					</li>
