@@ -1,9 +1,9 @@
 <?php
-define('_from_name', 'nick.agarcia@yahoo.com');
-define('_from_email', 'nick.agarcia@yahoo.com');
+define('_from_name', 'nick.agarcia@live.com');
+define('_from_email', 'nick.agarcia@live.com');
 
-define('_to_name', 'nick.agarcia@yahoo.com');
-define('_to_email', 'nick.agarcia@yahoo.com');
+define('_to_name', 'nick.agarcia@live.com');
+define('_to_email', 'nick.agarcia@live.com');
 
 define('_smtp_host', 'live.com');
 define('_smtp_username', 'nick.agarcia');
