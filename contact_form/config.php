@@ -1,8 +1,8 @@
 <?php
-define('_from_name', 'L&R Signs');
+define('_from_name', 'nick.agarcia@yahoo.com');
 define('_from_email', 'nick.agarcia@yahoo.com');
 
-define('_to_name', 'Test');
+define('_to_name', 'nick.agarcia@yahoo.com');
 define('_to_email', 'nick.agarcia@yahoo.com');
 
 define('_smtp_host', 'yahoo.com');
