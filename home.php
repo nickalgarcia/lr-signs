@@ -101,7 +101,7 @@
 							</div>
 						</div>
 					</li>-->
-					<li class="column">
+					<li class="column column-3-4">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
 								<a class="more" href="?page=cost_calculator" title="REQUEST A QUOTE">REQUEST A QUOTE</a>
@@ -220,9 +220,9 @@
 		<div class="row page-margin-top-section">
 			<div class="row">
 				<h2 class="box-header">ABOUT US</h2>
-				<p class="description align-center">L & R signs is a Christian company built on Christian principles. We started this company because we know that we can and will bring a higher level of quality to the sign industry and to our customers.<br>L & R signs want you to know that we really believe in a more personal level of service so you get the best service there is.</p>
+				<p class="description align-center">L & R signs is a Christian company built on Christian principles. We started this company because we know that we can, and WILL, bring a higher level of quality to the sign industry, and to our customers.<br>L & R signs wants you to know that we believe in a more personal level of service, so you get the best experience and signage there is.</p>
 			</div>
-			<div class="row page-margin-top">
+			<!--<div class="row page-margin-top">
 				<div class="column column-1-2 align-center re-preload">
 					<img src="images/samples/480x480/channel-letters.jpg" alt="" class="radius">
 				</div>
@@ -242,7 +242,7 @@
 						</li>
 					</ul>
 				</div>
-			</div>
+			</div>-->
 		</div>
 		<!--<div class="row gray full-width page-margin-top-section page-padding-top-section padding-bottom-66">
 			<div class="row">
@@ -285,14 +285,14 @@
 		</div>-->
 		<div class="row page-margin-top-section padding-bottom-66">
 			<h2 class="box-header">WHY CHOOSE L & R Signs</h2>
-			<p class="description align-center">We know you want the best of the best in all areas of your signage from start to finish.<br>We simply believe in the People, quality Product, and an efficient Process.</p>
+			<p class="description align-center">We know you want the best of the best in all areas of your signage, from start to finish.<br>So we simply believe in the people, the quality product, and an efficient and smooth process.</p>
 			<div class="row page-margin-top">
 				<div class="column column-1-3">
 					<ul class="features-list big">
 						<li class="sl-large-house-1">
 							<div class="ornament"></div>
-							<h4 class="box-header page-margin-top">10 YEARS EXPERIENCE</h4>
-							<p>Morbi nulla tortor, dignissim est node cursus euismod est arcu. Nomad at vehicula novum justo magna.</p>
+							<h4 class="box-header page-margin-top">15 YEARS EXPERIENCE</h4>
+							<p>The owner of L&R Signs learned at an early age how to build signs of all types. As a prodigy of a Master Sign Builder, he learned the best and most proficient ways to build signs.</p>
 						</li>
 					</ul>
 				</div>
@@ -301,7 +301,7 @@
 						<li class="sl-large-eco">
 							<div class="ornament"></div>
 							<h4 class="box-header page-margin-top">Quality Product</h4>
-							<p>Morbi nulla tortor, dignissim est node cursus euismod est arcu. Nomad at vehicula novum justo magna.</p>
+							<p>L&R Signs takes great pride in the building and manufacturing of quality signs. Everything is built with safety and durability in mind. Leaving you with the assurance that you have the best built sign.</p>
 						</li>
 					</ul>
 				</div>
@@ -310,7 +310,7 @@
 						<li class="sl-large-garage">
 							<div class="ornament"></div>
 							<h4 class="box-header page-margin-top">Solid and Efficient Process</h4>
-							<p>Morbi nulla tortor, dignissim est node cursus euismod est arcu. Nomad at vehicula novum justo magna.</p>
+							<p>Customer Service and an easy process is something that is very important to us. We will meet all of your signage needs, making it a smooth and stress free experience for you. We are more personal than most, and we will answer all your questions and concerns, giving you updates through out the entire process.</p>
 						</li>
 					</ul>
 				</div>
