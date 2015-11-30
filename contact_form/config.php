@@ -1,12 +1,12 @@
 <?php
-define('_from_name', 'QuanticaLabs@gmail.com');
-define('_from_email', 'nick.agarcia103@gmail.com');
+define('_from_name', 'L and R Signs');
+define('_from_email', 'nick.agarcia@yahoo.com');
 
-define('_to_name', 'QuanticaLabs@gmail.com');
-define('_to_email', 'nick.agarcia103@gmail.com');
+define('_to_name', 'L and R Signs');
+define('_to_email', 'nick.agarcia@yahoo.com');
 
-define('_smtp_host', 'gmail.com');
-define('_smtp_username', 'nick.agarcia103@gmail.com');
+define('_smtp_host', 'yahoo.com');
+define('_smtp_username', 'nick.agarcia@yahoo.com');
 define('_smtp_password', 'H36r3w510_35');
 define('_smtp_port', '465');
 define('_smtp_secure', 'ssl'); //ssl or tls
