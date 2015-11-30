@@ -5,9 +5,9 @@ define('_from_email', 'nick.agarcia@yahoo.com');
 define('_to_name', 'nick.agarcia@yahoo.com');
 define('_to_email', 'nick.agarcia@yahoo.com');
 
-define('_smtp_host', 'yahoo.com');
+define('_smtp_host', 'live.com');
 define('_smtp_username', 'nick.agarcia');
-define('_smtp_password', 'H36r3w510_35');
+define('_smtp_password', 'Spiderman7');
 define('_smtp_port', '');
 define('_smtp_secure', ''); //ssl or tls
 
