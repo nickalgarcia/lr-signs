@@ -90,18 +90,18 @@
 
 <div class="theme-page">
 	<div class="clearfix">
-		<div class="row full-width">
+		<div class="row full-width" id="cost-renovate">
 			<div class="announcement clearfix">
 				<ul class="columns no-width">
-					<li class="column column-3-4">
+					<!--<li class="column column-3-4">
 						<div class="vertical-align">
 							<div class="vertical-align-cell sl-small-wallet">
 								<h3>COST OF RENOVATION</h3>
 								<p class="description">Use our form to estimate the initial cost of renovation or installation.</p>
 							</div>
 						</div>
-					</li>
-					<li class="column-right column-1-4">
+					</li>-->
+					<li class="column">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
 								<a class="more" href="?page=cost_calculator" title="REQUEST A QUOTE">REQUEST A QUOTE</a>
@@ -114,7 +114,7 @@
 		<div class="row full-width gray page-padding-top-section">
 			<div class="row">
 				<h2 class="box-header">OUR SERVICES</h2>
-				<p class="description align-center">L & R signs has 10 years of custom sign fabrication in all areas of signage. With our services we really put forth the best in all quailty of fabrication. When it comes to our services we offer all areas of custom signage and local installtaion.</p>
+				<p class="description align-center">L & R signs has over 15 years of custom sign fabrication experience. With our services we put forth the best quality product and fabrication. When it comes to our services we offer all areas of custom signage, from front, reverse, or front and reverse lit channel letters, sign cabinets, monument signs, graphic designing, and even local installation.</p>
 				<ul class="services-list clearfix page-margin-top">
 					<li>
 						<a href="?page=service_interior_renovation" title="Interior Renovation">
@@ -131,16 +131,16 @@
 						<!--<p>From initial design and project specification to archieving a high end finish.</p>-->
 					</li>
 					<li>
-						<a href="?page=service_tiling_painting" title="Tiling and Painting">
-							<img src="images/samples/390x260/designing.jpg" alt="">
+						<a href="?page=service_tiling_painting" title="Graphic Design">
+							<img src="images/samples/390x260/graphic-design.jpg" alt="">
 						</a>
-						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">Designing</a></h4>
+						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">Graphic Design</a></h4>
 						<!--<p>We offer quality tiling and painting solutions for interior and exterior.</p>-->
 					</li>
 				</ul>
-				<div class="align-center margin-top-67 padding-bottom-87">
+				<!--<div class="align-center margin-top-67 padding-bottom-87">
 					<a class="more" href="?page=services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
-				</div>
+				</div>-->
 			</div>
 		</div>
 		<!--Recent Projects-->

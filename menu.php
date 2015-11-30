@@ -5,7 +5,7 @@
 				HOME
 			</a>
 		</li>
-		<li <?php echo ($_GET["page"]=="services" || $_GET["page"]=="service_interior_renovation" || $_GET["page"]=="service_design_build" || $_GET["page"]=="service_tiling_painting" || $_GET["page"]=="service_paver_walkways" || $_GET["page"]=="service_household_repairs" || $_GET["page"]=="service_solar_systems" ? " class='selected'" : ""); ?>>
+		<!--<li <?php echo ($_GET["page"]=="services" || $_GET["page"]=="service_interior_renovation" || $_GET["page"]=="service_design_build" || $_GET["page"]=="service_tiling_painting" || $_GET["page"]=="service_paver_walkways" || $_GET["page"]=="service_household_repairs" || $_GET["page"]=="service_solar_systems" ? " class='selected'" : ""); ?>>
 			<a href="?page=services" title="Services">
 				SERVICES
 			</a>
@@ -25,54 +25,12 @@
 						Tiling and Painting
 					</a>
 				</li>
-				<!--<li<?php echo ($_GET["page"]=="service_paver_walkways" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_paver_walkways" title="Paver Walkways">
-						Paver Walkways
-					</a>
-				</li>
-				<li<?php echo ($_GET["page"]=="service_household_repairs" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_household_repairs" title="Household Repairs">
-						Household Repairs
-					</a>
-				</li>
-				<li<?php echo ($_GET["page"]=="service_solar_systems" ? " class='selected'" : ""); ?>>
-					<a href="?page=service_solar_systems" title="Solar Systems">
-						Solar Systems
-					</a>
-				</li>-->
 			</ul>
-		</li>
+		</li>-->
 		<!--<li <?php echo ($_GET["page"]=="projects" || $_GET["page"]=="project_interior_renovation" || $_GET["page"]=="project_garden_renovation" || $_GET["page"]=="project_painting" || $_GET["page"]=="project_design_build" || $_GET["page"]=="project_solar_systems" ? " class='selected'" : ""); ?>>
 			<a href="?page=projects" title="Projects">
 				PROJECTS
 			</a>
-			<ul>
-				<li<?php echo ($_GET["page"]=="project_interior_renovation" ? " class='selected'" : ""); ?>>
-					<a href="?page=project_interior_renovation" title="Interior Renovation">
-						Interior Renovation
-					</a>
-				</li>
-				<li<?php echo ($_GET["page"]=="project_garden_renovation" ? " class='selected'" : ""); ?>>
-					<a href="?page=project_garden_renovation" title="Garden Renovation">
-						Garden Renovation
-					</a>
-				</li>
-				<li<?php echo ($_GET["page"]=="project_painting" ? " class='selected'" : ""); ?>>
-					<a href="?page=project_painting" title="Painting">
-						Painting
-					</a>
-				</li>
-				<li<?php echo ($_GET["page"]=="project_design_build" ? " class='selected'" : ""); ?>>
-					<a href="?page=project_design_build" title="Design and Build">
-						Design and Build
-					</a>
-				</li>
-				<li<?php echo ($_GET["page"]=="project_solar_systems" ? " class='selected'" : ""); ?>>
-					<a href="?page=project_solar_systems" title="Solar Systems">
-						Solar Systems
-					</a>
-				</li>
-			</ul>
 		</li>-->
 		<li class="left-flyout<?php echo ($_GET["page"]=="contact" || $_GET["page"]=="contact_2" ? " selected" : ""); ?>">
 			<a href="?page=contact" title="Contact">
