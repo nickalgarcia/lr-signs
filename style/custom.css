@@ -1,0 +1,23 @@
+/*Custom CSS*/
+
+.slider-content-box {
+    display: none;
+}
+.slider-content-box {
+    display: none;
+}
+li.quote {
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+.quote .vertical-align {
+    width: 50%;
+    display: block;
+    margin: 30px auto -40px;
+}
+.quote .vertical-align-cell {
+    width: 50%;
+    display: block;
+    margin: auto;
+}

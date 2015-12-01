@@ -101,7 +101,7 @@
 							</div>
 						</div>
 					</li>-->
-					<li class="column column-3-4">
+					<li class="quote">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
 								<a class="more" href="?page=contact" title="REQUEST A QUOTE">REQUEST A QUOTE</a>

@@ -6,8 +6,8 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.2" />
 		<meta name="format-detection" content="telephone=no" />
-		<meta name="keywords" content="Construction, Renovation" />
-		<meta name="description" content="Responsive Construction Renovation Template" />
+		<meta name="keywords" content="Sign, Custom, Channel Letters, Sign Cabinets" />
+		<meta name="description" content="L & R signs has over 15 years of custom sign fabrication experience. With our services we put forth the best quality product and fabrication. When it comes to our services we offer all areas of custom signage, from front, reverse, or front and reverse lit channel letters, sign cabinets, monument signs, graphic designing, and even local installation." />
 		<!--slider revolution-->
 		<link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
 		<!--style-->
@@ -20,6 +20,7 @@
 		<link rel="stylesheet" type="text/css" href="style/animations.css">
 		<link rel="stylesheet" type="text/css" href="style/responsive.css">
 		<link rel="stylesheet" type="text/css" href="style/odometer-theme-default.css">
+		<link rel="stylesheet" type="text/css" href="style/custom.css">
 		<!--fonts-->
 		<link rel="stylesheet" type="text/css" href="fonts/streamline-small/styles.css">
 		<link rel="stylesheet" type="text/css" href="fonts/streamline-large/styles.css">
