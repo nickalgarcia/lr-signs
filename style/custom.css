@@ -46,4 +46,7 @@ li.quote {
         display: inline-block;
         float: left;
     }
+    .mobile-menu-switch:hover .line {
+    background: #8cc63e;
+}
 }
