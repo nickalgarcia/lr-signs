@@ -24,3 +24,6 @@ li.quote {
 .mobile-menu li.selected a {
     background: #8cc63e;
 }
+#overflow-x {
+    overflow-x: hidden;
+}

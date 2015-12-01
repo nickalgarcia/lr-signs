@@ -118,5 +118,6 @@
 		<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 		<script type="text/javascript" src="js/main.js"></script>
 		<script type="text/javascript" src="js/odometer.min.js"></script>
+		</div><!--.overflow-x-->
 	</body>
 </html>

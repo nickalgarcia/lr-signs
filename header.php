@@ -29,6 +29,7 @@
 		<link rel="shortcut icon" href="images/favicon.ico">
 	</head>
 	<body>
+	<div id="overflow-x">
 		<div class="site-container">
 			<div class="header-top-bar-container clearfix">
 				<div class="header-top-bar">
