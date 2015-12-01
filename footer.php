@@ -29,7 +29,7 @@
 			<?php endif; ?>
 			<div class="row gray full-width page-padding-top padding-bottom-50">
 				<div class="row row-4-4">
-					<div class="column column-1-4">
+					<div class="column column-3-4">
 						<h6 class="box-header">About Us</h6>
 						<p class="description t1">L & R signs is a Christian company built on Christian principles. We started this company because we know that we can and will bring a higher level of quality to the sign industry and to our customers.</p>
 						<ul class="social-icons yellow margin-top-26">
