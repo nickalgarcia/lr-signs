@@ -3,27 +3,34 @@
 .slider-content-box {
     display: none;
 }
+
 .slider-content-box {
     display: none;
 }
+
+.mobile-menu li.selected a {
+    background: #8cc63e;
+}
+
+#overflow-x {
+    overflow-x: hidden;
+}
+
 li.quote {
     width: 70%;
     display: block;
     margin: auto;
 }
-.quote .vertical-align {
-    width: 50%;
-    display: block;
-    margin: 30px auto -40px;
-}
-.quote .vertical-align-cell {
-    width: 50%;
-    display: block;
-    margin: auto;
-}
-.mobile-menu li.selected a {
-    background: #8cc63e;
-}
-#overflow-x {
-    overflow-x: hidden;
+
+@media screen and (min-width: 1200px) {
+    .quote .vertical-align {
+        width: 50%;
+        display: block;
+        margin: 30px auto -40px;
+    }
+    .quote .vertical-align-cell {
+        width: 50%;
+        display: block;
+        margin: auto;
+    }
 }
