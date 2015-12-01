@@ -41,13 +41,16 @@ if(isset($_POST["action"]) && $_POST["action"]=="contact_form")
 
 		$mail->CharSet='UTF-8';
 
-		$mail->SetFrom($values["email"], $values["name"]);
+		//$mail->SetFrom($values["email"], $values["name"]);
+		$mail->SetFrom(_from_email, _from_name);
+		$mail->AddReplyTo($values["email"], $values["name"]);
 		$mail->AddAddress(_to_email, _to_name);
 
 		$smtp=_smtp_host;
 		if(!empty($smtp))
 		{
 			$mail->IsSMTP();
+			//$mail->SMTPDebug = 1; 
 			$mail->SMTPAuth = true; 
 			$mail->Host = _smtp_host;
 			$mail->Username = _smtp_username;
