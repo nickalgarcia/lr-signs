@@ -21,3 +21,6 @@ li.quote {
     display: block;
     margin: auto;
 }
+.mobile-menu li.selected a {
+    background: #8cc63e;
+}

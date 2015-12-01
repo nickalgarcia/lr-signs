@@ -48,7 +48,7 @@
 					HOME
 				</a>
 			</li>
-			<li <?php echo ($_GET["page"]=="services" || $_GET["page"]=="service_interior_renovation" || $_GET["page"]=="service_design_build" || $_GET["page"]=="service_tiling_painting" || $_GET["page"]=="service_paver_walkways" || $_GET["page"]=="service_household_repairs" || $_GET["page"]=="service_solar_systems" ? " class='selected'" : ""); ?>>
+			<!--<li <?php echo ($_GET["page"]=="services" || $_GET["page"]=="service_interior_renovation" || $_GET["page"]=="service_design_build" || $_GET["page"]=="service_tiling_painting" || $_GET["page"]=="service_paver_walkways" || $_GET["page"]=="service_household_repairs" || $_GET["page"]=="service_solar_systems" ? " class='selected'" : ""); ?>>
 				<a href="?page=services" title="Services">
 					SERVICES
 				</a>
@@ -68,7 +68,7 @@
 							Tiling and Painting
 						</a>
 					</li>
-					<!--<li<?php echo ($_GET["page"]=="service_paver_walkways" ? " class='selected'" : ""); ?>>
+					li<?php echo ($_GET["page"]=="service_paver_walkways" ? " class='selected'" : ""); ?>>
 						<a href="?page=service_paver_walkways" title="Paver Walkways">
 							Paver Walkways
 						</a>
@@ -82,10 +82,10 @@
 						<a href="?page=service_solar_systems" title="Solar Systems">
 							Solar Systems
 						</a>
-					</li>-->
+					</li>
 				</ul>
 			</li>
-			<!--<li <?php echo ($_GET["page"]=="projects" || $_GET["page"]=="project_interior_renovation" || $_GET["page"]=="project_garden_renovation" || $_GET["page"]=="project_painting" || $_GET["page"]=="project_design_build" || $_GET["page"]=="project_solar_systems" ? " class='selected'" : ""); ?>>
+			<li <?php echo ($_GET["page"]=="projects" || $_GET["page"]=="project_interior_renovation" || $_GET["page"]=="project_garden_renovation" || $_GET["page"]=="project_painting" || $_GET["page"]=="project_design_build" || $_GET["page"]=="project_solar_systems" ? " class='selected'" : ""); ?>>
 				<a href="?page=projects" title="Projects">
 					PROJECTS
 				</a>
