@@ -34,3 +34,16 @@ li.quote {
         margin: auto;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .header .mobile-menu-switch {
+        display: inline-block;
+        float: right;
+        margin-top: 30px;
+    }
+    .header .logo {
+        width: 70%;
+        display: inline-block;
+        float: left;
+    }
+}
