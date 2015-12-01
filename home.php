@@ -120,21 +120,21 @@
 						
 							<img src="images/samples/390x260/channel.jpg" alt="">
 						
-						<h4 class="box-header"><a href="?page=service_interior_renovation" title="Interior Renovation">Channel Letters</a></h4>
+						<h4 class="box-header">Channel Letters</h4>
 						<!--<p>We can help you bring new life to existing rooms and develop unused spaces.</p>-->
 					</li>
 					<li>
 						
 							<img src="images/samples/390x260/cabinet.jpg" alt="">
 						
-						<h4 class="box-header"><a href="?page=service_design_build" title="Design and Build">Sign Cabinets</a></h4>
+						<h4 class="box-header">Sign Cabinets</h4>
 						<!--<p>From initial design and project specification to archieving a high end finish.</p>-->
 					</li>
 					<li>
 						
 							<img src="images/samples/390x260/graphic-design.jpg" alt="">
 						
-						<h4 class="box-header"><a href="?page=service_tiling_painting" title="Tiling and Painting">Graphic Design</a></h4>
+						<h4 class="box-header">Graphic Design</h4>
 						<!--<p>We offer quality tiling and painting solutions for interior and exterior.</p>-->
 					</li>
 				</ul>
