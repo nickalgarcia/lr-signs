@@ -5,7 +5,7 @@
 			<!-- SLIDE 1 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/channel-1.jpg" alt="slidebg1" data-bgfit="cover">
+				<img src="images/slider/tower-park.jpg" alt="slidebg1" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -32,7 +32,7 @@
 			<!-- SLIDE 2 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/cabinet-1.jpg" alt="slidebg2" data-bgfit="cover">
+				<img src="images/slider/lakeline-center.jpg" alt="slidebg2" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -59,7 +59,34 @@
 			<!-- SLIDE 3 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/channel-2.jpg" alt="slidebg3" data-bgfit="cover">
+				<img src="images/slider/walnut-creek.jpg" alt="slidebg3" data-bgfit="cover">
+				<!-- LAYERS -->
+				<!-- LAYER 01 -->
+				<div class="tp-caption customin customout"
+					data-x="0"
+					data-y="140"
+					
+					data-customin="x:40;y:0;"
+					data-start="500"
+					data-speed="1200"
+					data-easing="easeInOutExpo"
+
+					data-customout="x:0;y:0;"
+					data-endspeed="500"
+					data-endeasing="easeInOutExpo">
+					
+					<div class="slider-content-box">
+						<h2><a href="?page=service_household_repairs" title="HOUSEHOLD REPAIRS">YOUR MOST AFFORDABLE CONTRACTORS</a></h2>
+						<p>We have the experience, personel and resources to make the project run smoothly. We can ensure a job is done on time.</p>
+						<a class="more simple" href="http://themeforest.net/item/renovate-construction-renovation-template/11313006?ref=QuanticaLabs" title="BUY THIS TEMPLATE">BUY THIS TEMPLATE</a>
+					</div>
+				</div>
+			</li>
+
+						<!-- SLIDE 4 -->
+			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
+				<!-- MAIN IMAGE -->
+				<img src="images/slider/jose-luis.jpg" alt="slidebg4" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
