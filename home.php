@@ -5,7 +5,7 @@
 			<!-- SLIDE 1 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/tower-park.jpg" alt="slidebg1" data-bgfit="cover">
+				<img src="images/slider/tower-park.png" alt="slidebg1" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -32,7 +32,7 @@
 			<!-- SLIDE 2 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/lakeline-center.jpg" alt="slidebg2" data-bgfit="cover">
+				<img src="images/slider/lakeline-center.png" alt="slidebg2" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -59,7 +59,7 @@
 			<!-- SLIDE 3 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/walnut-creek.jpg" alt="slidebg3" data-bgfit="cover">
+				<img src="images/slider/walnut-creek.png" alt="slidebg3" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
@@ -86,7 +86,7 @@
 						<!-- SLIDE 4 -->
 			<li data-transition="fade" data-masterspeed="500" data-slotamount="1" data-delay="6000">
 				<!-- MAIN IMAGE -->
-				<img src="images/slider/jose-luis.jpg" alt="slidebg4" data-bgfit="cover">
+				<img src="images/slider/jose-luis.png" alt="slidebg4" data-bgfit="cover">
 				<!-- LAYERS -->
 				<!-- LAYER 01 -->
 				<div class="tp-caption customin customout"
