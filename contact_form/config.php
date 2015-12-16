@@ -11,7 +11,7 @@ define('_smtp_password', 'H36r3w510_35');
 define('_smtp_port', '465');
 define('_smtp_secure', 'ssl'); //ssl or tls
 
-define('_subject_email', 'Renovate: Contact from WWW');
+define('_subject_email', 'landrsign.com Contact Form');
 
 define('_def_name', 'Your Name *');
 define('_def_email', 'Your Email *');
