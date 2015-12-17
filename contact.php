@@ -30,6 +30,7 @@ require_once("contact_form/config.php");
 			</div>
 		</div>
 		<div class="row page-margin-top">
+		<p class="description t1">Please be as detailed as possible. The more information, photos, and examples will help expedite the quoting. Thank you.</p>
 			<form class="contact-form" id="contact-form" method="post" action="contact_form/contact_form.php">
 				<div class="row">
 					<fieldset class="column column-1-2">
