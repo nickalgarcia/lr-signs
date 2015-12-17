@@ -1,9 +1,9 @@
 <?php
-define('_from_name', 'L and R Signs');
+define('_from_name', 'landrsigns.com form');
 define('_from_email', 'nick.agarcia@yahoo.com');
 
 define('_to_name', 'L and R Signs');
-define('_to_email', 'nick.agarcia@yahoo.com');
+define('_to_email', 'landrsigns@yahoo.com');
 
 define('_smtp_host', 'smtp.mail.yahoo.com');
 define('_smtp_username', 'nick.agarcia@yahoo.com');
