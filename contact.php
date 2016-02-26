@@ -47,10 +47,10 @@ require_once("contact_form/config.php");
 					<div class="column column-1-2">
 						<p class="description t1">We will contact you within one business day.</p>
 					</div>
-					<div class="column column-1-2 align-right">
+					<!--<div class="column column-1-2 align-right">
 						<input type="hidden" name="action" value="contact_form" />
 						<input type="submit" name="submit" value="SEND MESSAGE" class="more active">
-					</div>
+					</div>-->
 				</div>
 			</form>
 		</div>
