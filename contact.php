@@ -33,14 +33,15 @@ require_once("contact_form/config.php");
 		<p class="description t1">Please be as detailed as possible. The more information, photos, and examples will help expedite the quoting. Thank you.</p>
 			<form class="contact-form" id="contact-form" method="post" action="contact_form/contact_form.php">
 				<div class="row">
-					<fieldset class="column column-1-2">
+					<!--<fieldset class="column column-1-2">
 						<input class="text-input" name="name" type="text" value="<?php echo _def_name; ?>" placeholder="<?php echo _def_name; ?>">
 						<input class="text-input" name="email" type="text" value="<?php echo _def_email; ?>" placeholder="<?php echo _def_email; ?>">
 						<input class="text-input" name="phone" type="text" value="<?php echo _def_phone; ?>" placeholder="<?php echo _def_phone; ?>">
 					</fieldset>
 					<fieldset class="column column-1-2">
 						<textarea name="message" placeholder="<?php echo _def_message; ?>"><?php echo _def_message; ?></textarea>
-					</fieldset>
+					</fieldset>-->
+					<script type="text/javascript" src="https://form.jotform.com/jsform/51696565921163"></script>
 				</div>
 				<div class="row margin-top-30">
 					<div class="column column-1-2">
