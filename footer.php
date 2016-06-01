@@ -91,7 +91,7 @@
 				</div>
 			</div>
 			<div class="row align-center padding-top-bottom-30">
-				<span class="copyright">© Copyright 2015 <a href="http://landrsigns.com/" target="_blank">L & R Signs</a></span>
+				<span class="copyright">© Copyright <?php echo date("Y"); ?> <a href="http://landrsigns.com/" target="_blank">L & R Signs</a></span>
 			</div>
 		</div>
 		<a href="#top" class="scroll-top animated-element template-arrow-up" title="Scroll to top"></a>
