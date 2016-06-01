@@ -46,48 +46,6 @@
 							<li class="template-bullet">Designing</li>
 						</ul>
 					</div>
-					<!--<div class="column column-1-4">
-						<h6 class="box-header">Categories</h6>
-						<ul class="taxonomies margin-top-30">
-							<li><a href="?page=category&amp;cat=build" title="BUILD">CHANNEL LETTERS</a></li>
-							<li><a href="?page=category&amp;cat=design" title="DESIGN">SIGN CABINETS</a></li>
-							<li><a href="?page=category&amp;cat=flooring" title="FLOORING">DESIGNING</a></li>
-							<li><a href="?page=category&amp;cat=painting" title="PAINTING">PAINTING</a></li>
-							<li><a href="?page=category&amp;cat=pavers" title="PAVERS">PAVERS</a></li>
-							<li><a href="?page=category&amp;cat=plumbing" title="PLUMBING">PLUMBING</a></li>
-							<li><a href="?page=category&amp;cat=renovation" title="RENOVATION">RENOVATION</a></li>
-							<li><a href="?page=category&amp;cat=repairs" title="REPAIRS">REPAIRS</a></li>
-							<li><a href="?page=category&amp;cat=solar%20systems" title="SOLAR SYSTEMS">SOLAR SYSTEMS</a></li>
-							<li><a href="?page=category&amp;cat=tiling" title="TILING">TILING</a></li>
-						</ul>
-					</div>-->
-					<!--<div class="column column-1-4">
-						<h6 class="box-header">Latest Posts</h6>
-						<ul class="blog small margin-top-30">
-							<li>
-								<a href="?page=post" title="What a Difference a Few Months Make" class="post-image">
-									<img src="images/samples/90x90/image_10.jpg" alt="">
-								</a>
-								<div class="post-content">
-									<a href="?page=post" title="What a Difference a Few Months Make">What a Difference a Few Months Make</a>
-									<ul class="post-details">
-										<li class="date">April 25, 2015</li>
-									</ul>
-								</div>
-							</li>
-							<li>
-								<a href="?page=post" title="Kitchen and Living Room Renovation" class="post-image">
-									<img src="images/samples/90x90/image_07.jpg" alt="">
-								</a>
-								<div class="post-content">
-									<a href="?page=post" title="Kitchen and Living Room Renovation">Kitchen and Living Room Renovation</a>
-									<ul class="post-details">
-										<li class="date">April 17, 2015</li>
-									</ul>
-								</div>
-							</li>
-						</ul>
-					</div>-->
 				</div>
 			</div>
 			<div class="row align-center padding-top-bottom-30">
