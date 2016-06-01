@@ -69,32 +69,10 @@
 						<li>
 							<a target="_blank" href="https://www.facebook.com/landrsigns" class="social-facebook" title="facebook"></a>
 						</li>
-						<!--<li>
-							<a target="_blank" href="https://twitter.com/QuanticaLabs" class="social-twitter" title="twitter"></a>
-						</li>
-						<li>
-							<a href="https://pinterest.com/quanticalabs/" class="social-pinterest" title="pinterest"></a>
-						</li>
-						<li>
-							<a title="" href="http://themeforest.net/user/QuanticaLabs?ref=QuanticaLabs" class="social-youtube"></a>
-						</li>
-						<li>
-							<a title="" href="http://themeforest.net/user/QuanticaLabs?ref=QuanticaLabs" class="social-linkedin"></a>
-						</li>
-						<li>
-							<a title="" href="http://themeforest.net/user/QuanticaLabs?ref=QuanticaLabs" class="social-pinterest"></a>
-						</li>
-						<li>
-							<a title="" href="http://themeforest.net/user/QuanticaLabs?ref=QuanticaLabs" class="social-instagram"></a>
-						</li>
-						
-						-->
 					</ul>
 				</div>
 				<a href="#" class="header-toggle template-arrow-up"></a>
 			</div>
-			<div class="header-container">
-			<!--<div class="header-container sticky">-->
 				<div class="vertical-align-table column-1-1">
 					<div class="header clearfix">
 						<div class="logo vertical-align-cell">
