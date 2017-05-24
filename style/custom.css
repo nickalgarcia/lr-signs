@@ -22,6 +22,29 @@ li.quote {
     margin: auto;
 }
 
+.green,
+.box-header:after {
+    background: #8cc63e;
+}
+
+.more,
+.more[type="submit"],
+.social-icons.yellow li {
+    background: #8cc63e;
+    border: 2px solid #8cc63e;
+}
+
+.features-list li:before,
+li.template-bullet:before,
+.contact-details-list li:before,
+.sf-menu li:hover a,
+.sf-menu li:hover a:visited,
+.sf-menu a:hover,
+.sf-menu a:visited:hover,
+.sf-menu li.selected a {
+    color: #8cc63e;
+}
+
 @media screen and (min-width: 1200px) {
     .quote .vertical-align {
         width: 50%;
@@ -47,6 +70,6 @@ li.quote {
         float: left;
     }
     .mobile-menu-switch:hover .line {
-    background: #8cc63e;
-}
+        background: #8cc63e;
+    }
 }

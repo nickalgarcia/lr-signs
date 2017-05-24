@@ -120,14 +120,6 @@
 		<div class="row full-width" id="cost-renovate">
 			<div class="announcement clearfix">
 				<ul class="columns no-width">
-					<!--<li class="column column-3-4">
-						<div class="vertical-align">
-							<div class="vertical-align-cell sl-small-wallet">
-								<h3>COST OF RENOVATION</h3>
-								<p class="description">Use our form to estimate the initial cost of renovation or installation.</p>
-							</div>
-						</div>
-					</li>-->
 					<li class="quote">
 						<div class="vertical-align">
 							<div class="vertical-align-cell">
@@ -165,151 +157,16 @@
 						<!--<p>We offer quality tiling and painting solutions for interior and exterior.</p>-->
 					</li>
 				</ul>
-				<!--<div class="align-center margin-top-67 padding-bottom-87">
-					<a class="more" href="?page=services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
-				</div>-->
+
 			</div>
 		</div>
-		<!--Recent Projects-->
-		<!--<div class="row full-width page-margin-top-section">
-			<div class="row">
-				<h2 class="box-header">RECENT PROJECTS</h2>
-				<p class="description align-center">Here are a few of many projects we have completed for our customers. We provide a professional service<br>which includes consultation, free estimate, design, supply of materials and installation.</p>
-			</div>	
-			<ul class="projects-list clearfix page-margin-top">
-				<li>
-					<a href="?page=project_design_build" title="Design and Build">
-						<img src="images/samples/480x320/image_07.jpg" alt="">
-					</a>
-					<div class="view align-center">
-						<div class="vertical-align-table">
-							<div class="vertical-align-cell">
-								<p class="description">Design and Build</p>
-								<a class="more simple" href="?page=project_design_build" title="VIEW PROJECT">VIEW PROJECT</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<a href="?page=project_garden_renovation" title="Garden Renovation">
-						<img src="images/samples/480x320/image_04.jpg" alt="">
-					</a>
-					<div class="view align-center">
-						<div class="vertical-align-table">
-							<div class="vertical-align-cell">
-								<p class="description">Garden Renovation</p>
-								<a class="more simple" href="?page=project_garden_renovation" title="VIEW PROJECT">VIEW PROJECT</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<a href="?page=project_interior_renovation" title="Interior Renovation">
-						<img src="images/samples/480x320/image_05.jpg" alt="">
-					</a>
-					<div class="view align-center">
-						<div class="vertical-align-table">
-							<div class="vertical-align-cell">
-								<p class="description">Interior Renovation</p>
-								<a class="more simple" href="?page=project_interior_renovation" title="VIEW PROJECT">VIEW PROJECT</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<a href="?page=project_solar_systems" title="Solar Systems">
-						<img src="images/samples/480x320/image_06.jpg" alt="">
-					</a>
-					<div class="view align-center">
-						<div class="vertical-align-table">
-							<div class="vertical-align-cell">
-								<p class="description">Solar Systems</p>
-								<a class="more simple" href="?page=project_solar_systems" title="VIEW PROJECT">VIEW PROJECT</a>
-							</div>
-						</div>
-					</div>
-				</li>
-			</ul>
-		</div>
-		<div class="row gray full-width padding-top-54 padding-bottom-61 align-center">
-			<h3><span class="button-label">EXPLORE OUR PROJECTS</span> <a class="more" href="?page=projects" title="VIEW ALL PROJECTS">VIEW ALL PROJECTS</a></h3>
-		</div>
-		<div class="row gray full-width padding-top-bottom-50">
-			<div class="row">
-				<div class="column column-1-2 align-right padding-top-7">
-					<h3>EXPLORE OUR PROJECTS</h3>
-				</div>
-				<div class="column column-1-2">
-					<a class="more float" href="?page=projects" title="VIEW ALL PROJECTS">VIEW ALL PROJECTS</a>
-				</div>
-			</div>
-		</div>-->
+
 		<div class="row page-margin-top-section">
 			<div class="row">
 				<h2 class="box-header">ABOUT US</h2>
 				<p class="description align-center">L & R signs is a Christian company built on Christian principles. We started this company because we know that we can, and WILL, bring a higher level of quality to the sign industry, and to our customers.<br>L & R signs wants you to know that we believe in a more personal level of service, so you get the best experience and signage there is.</p>
 			</div>
-			<!--<div class="row page-margin-top">
-				<div class="column column-1-2 align-center re-preload">
-					<img src="images/samples/480x480/channel-letters.jpg" alt="" class="radius">
-				</div>
-				<div class="column column-1-2">
-					<ul class="features-list">
-						<li class="sl-small-helmet margin-top-40">
-							<h4>OVER 15 YEARS EXPERIENCE</h4>
-							<p>We combine quality workmanship, superior knowledge and low prices to provide you with service unmatched by our competitors.</p>
-						</li>
-						<li class="sl-small-roller">
-							<h4>BEST MATERIALS</h4>
-							<p>We have the experience, personel and resources to make the project run smoothly. We can ensure a job is done on time.</p>
-						</li>
-						<li class="sl-small-driller">
-							<h4>PROFESSIONAL STANDARDS</h4>
-							<p>Work with us involve a carefully planned series of steps, centered around a schedule we stick to and daily communication.</p>
-						</li>
-					</ul>
-				</div>
-			</div>-->
 		</div>
-		<!--<div class="row gray full-width page-margin-top-section page-padding-top-section padding-bottom-66">
-			<div class="row">
-				<div class="tabs no-scroll clearfix">
-					<ul class="tabs-navigation clearfix">
-						<li>
-							<a href="#we-offer" title="We Offer" class="sl-small-bubble-check">
-								We Offer
-							</a>
-							<span></span>
-						</li>
-						<li>
-							<a href="#we-guarantee" title="We Guarantee" class="sl-small-shield">
-								We Guarantee
-							</a>
-							<span></span>
-						</li>
-						<li>
-							<a href="#we-provide" title="We Provide" class="sl-small-truck">
-								We Provide
-							</a>
-							<span></span>
-						</li>
-					</ul>
-					<div id="we-offer">
-						<h4 class="box-header">OUR OFFER</h4>
-						<p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.</p>
-					</div>
-					<div id="we-guarantee">
-						<h4 class="box-header">OUR WARRANTY COVERS</h4>
-						<p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.</p>
-					
-					</div>
-					<div id="we-provide">
-						<h4 class="box-header">OUR SERVICES</h4>
-						<p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.</p>
-					</div>
-				</div>
-			</div>
-		</div>-->
 		<div class="row page-margin-top-section padding-bottom-66">
 			<h2 class="box-header">WHY CHOOSE L & R Signs</h2>
 			<p class="description align-center">We know you want the best of the best in all areas of your signage, from start to finish.<br>So we simply believe in the people, the quality product, and an efficient and smooth process.</p>
@@ -343,86 +200,6 @@
 				</div>
 			</div>
 		</div>
-		<!--<div class="row full-width padding-top-70 padding-bottom-66 parallax parallax-1">	
-			<div class="row testimonials-container">
-				<a href="#" class="slider-control left template-arrow-left-1"></a>
-				<ul class="testimonials-list">
-					<li class="sl-small-conversation">
-						<div class="ornament"></div>
-						<p>"We would like to thank Renovate Company for an outstanding effort on this
-						recently completed project located in the Moscow. The project involved a very
-						aggressive schedule and it was completed on time. We would certainly like to
-						use their professional services again."</p>
-						<div class="author">MITCHEL SMITH</div>
-						<div class="author-details">CEO OF NEW PORT COMPANY</div>
-					</li>
-					<li class="sl-small-conversation">
-						<div class="ornament"></div>
-						<p>"We would like to thank Renovate Company for an outstanding effort on this
-						recently completed project located in the Moscow. The project involved a very
-						aggressive schedule and it was completed on time. We would certainly like to
-						use their professional services again."</p>
-						<div class="author">MITCHEL SMITH</div>
-						<div class="author-details">CEO OF NEW PORT COMPANY</div>
-					</li>
-					<li class="sl-small-conversation">
-						<div class="ornament"></div>
-						<p>"We would like to thank Renovate Company for an outstanding effort on this
-						recently completed project located in the Moscow. The project involved a very
-						aggressive schedule and it was completed on time. We would certainly like to
-						use their professional services again."</p>
-						<div class="author">MITCHEL SMITH</div>
-						<div class="author-details">CEO OF NEW PORT COMPANY</div>
-					</li>
-				</ul>
-				<a href="#" class="slider-control right template-arrow-left-1"></a>
-			</div>
-		</div>-->
-		<!--<div class="row gray full-width page-padding-top-section padding-bottom-66">
-			<div class="row">
-				<h2 class="box-header">WE WORK WITH</h2>
-				<div class="our-clients-list-container page-margin-top">
-					<ul class="our-clients-list">
-						<li>
-							<img src="images/logos/logo_01.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_02.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_03.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_04.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_05.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_06.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_06.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_05.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_04.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_03.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_02.png" alt="">
-						</li>
-						<li>
-							<img src="images/logos/logo_01.png" alt="">
-						</li>
-					</ul>
-					<div class="our-clients-pagination"></div>
-				</div>
-			</div>
-		</div>-->
+
 	</div>
 </div>

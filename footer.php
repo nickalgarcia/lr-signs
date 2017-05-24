@@ -1,5 +1,5 @@
 			<?php if($_GET["page"]!="contact" && $_GET["page"]!="contact_2"):?>
-			<div class="row yellow full-width padding-top-bottom-30">
+			<div class="row green full-width padding-top-bottom-30">
 				<div class="row">
 					<div class="column column-1-3">
 						<ul class="contact-details-list">
