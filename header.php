@@ -67,7 +67,7 @@
 					</div>
 					<ul class="social-icons">
 						<li>
-							<a target="_blank" href="https://www.facebook.com/landrsigns" class="social-facebook" title="facebook"></a>
+							<a target="_blank" href="https://www.facebook.com/landrsigns/" class="social-facebook" title="facebook"></a>
 						</li>
 					</ul>
 				</div>

@@ -45,6 +45,29 @@ li.template-bullet:before,
     color: #8cc63e;
 }
 
+.intrinsic-container {
+    position: relative;
+    display: block;
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-bottom: 140%;
+}
+
+.intrinsic-container iframe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.estitle {
+    display: none;
+}
+
 @media screen and (min-width: 1200px) {
     .quote .vertical-align {
         width: 50%;

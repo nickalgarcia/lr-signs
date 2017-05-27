@@ -30,7 +30,9 @@ require_once("contact_form/config.php");
 			</div>
 		</div>
 		<div class="row page-margin-top">
-		<iframe src="//embedsocial.com/facebook_album/album_photos/1030701913641914" width="900" height="1500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+		<div class="intrinsic-container">
+		<iframe src="//embedsocial.com/facebook_album/album_photos/1030701913641914" width="900" height="1500" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"></iframe>
+		</div>
 		</div>
 	</div>
 </div>

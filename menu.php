@@ -33,7 +33,7 @@
 			</a>
 		</li>-->
 					<li>
-			<a href="https://www.facebook.com/landrsigns/photos_stream?tab=photos_stream" target="_blank">GALLERY</a>
+			<a href="?page=gallery">GALLERY</a>
 			</li>
 		<li class="left-flyout<?php echo ($_GET["page"]=="contact" || $_GET["page"]=="contact_2" ? " selected" : ""); ?>">
 			<a href="?page=contact" title="Contact">
